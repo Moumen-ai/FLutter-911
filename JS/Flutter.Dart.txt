@@ -1,0 +1,4 @@
+var size;
+size=56;
+
+Print size ;
